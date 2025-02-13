@@ -1105,7 +1105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 946022a65dd98d744b4bdb2cd2bf1dd5, type: 3}
       propertyPath: m_Name
-      value: Gaime
+      value: Master Gaime
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
